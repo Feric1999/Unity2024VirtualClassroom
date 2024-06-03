@@ -1,1 +1,1 @@
-Contains data files for Unity 2024 Virtual Classrool Project
+Contains data files for Unity 2024 Virtual Classroom Project
