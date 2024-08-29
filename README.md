@@ -1,7 +1,7 @@
 Contains data files for Unity 2024 Virtual Classroom Project
 
 room_data.txt
-  Line 1: App ID (_appID)
+  Line 1: App ID (_appID) \n
   Line 2: Channel Name (_channelName)
   Line 3: Token (_token)
 
