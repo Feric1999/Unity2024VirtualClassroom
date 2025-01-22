@@ -18,4 +18,12 @@ rows_data.txt
   Line 3:  Number of rows in video atlas (num_rows)
   
   Line 4:  Number of wireframes in the virtual classroom (num_wireframe)
+
+
+Program reserve UIDs
+
+  Instructor Camera UID: 99
+
+  Video Atlas UID: 100
+  
   
