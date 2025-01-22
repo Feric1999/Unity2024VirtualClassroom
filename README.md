@@ -22,9 +22,9 @@ rows_data.txt
 
 Program reserve UIDs
 
-  Instructor Camera UID: 99
+  Instructor Camera UID: 100
 
-  Video Atlas UID: 100
+  Video Atlas UID: 99
 
   Slides UID: 101
   
