@@ -25,5 +25,7 @@ Program reserve UIDs
   Instructor Camera UID: 99
 
   Video Atlas UID: 100
+
+  Slides UID: 101
   
   
