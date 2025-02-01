@@ -20,6 +20,12 @@ rows_data.txt
   Line 4:  Number of wireframes in the virtual classroom (num_wireframe)
 
 
+name_list.txt
+
+  Used to hold a number of names to be applied to users in the game. Must be equal to the number of remote students connecting through agora (num_viewers)
+  
+
+
 Program reserve UIDs
 
   Instructor Camera UID: 100
