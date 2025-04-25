@@ -1,10 +1,5 @@
-Voicu 1
-Voicu 2
-Ellen 1
-Ellen 2
-Siyu 1
-Siyu 2
-Silvia
-Yuqi 1
-Yuqi 2
-Tanner
+Dhanush Manjunath
+Yuqi Zhou
+Ethan Lee
+Shuqi LIao
+Xi Pang
