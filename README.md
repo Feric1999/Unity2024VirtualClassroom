@@ -13,7 +13,7 @@ rows_data.txt
 
   Line 1:  Number of remote students connecting through agora (num_viewers)
   
-  Line 2:  Total number of remote students connecting through agora and videos (num_total)
+  Line 2:  Total number of remote students connecting through agora and inbeded videos. Note must be divisible by num_rows (num_total)
   
   Line 3:  Number of rows in video atlas (num_rows)
   
