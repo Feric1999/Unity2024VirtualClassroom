@@ -17,9 +17,9 @@ rows_data.txt
   
   Line 3:  Number of rows in video atlas (num_rows)
   
-  Line 4:  Number of wireframes in the virtual classroom (num_wireframe)
+  Line 4:  Number of wireframes in the virtual classroom to be used (num_wireframe)
 
-  Line 5: Number of local students
+  Line 5: Number of local students (num_local)
 
 
 name_list.txt
