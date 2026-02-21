@@ -19,6 +19,8 @@ rows_data.txt
   
   Line 4:  Number of wireframes in the virtual classroom (num_wireframe)
 
+  Line 5: Number of local students
+
 
 name_list.txt
 
