@@ -35,6 +35,8 @@ Program reserve UIDs
   - Video Atlas UID: 99
 
   - Slides UID: 101
+    
+  - Local Student Camera UID: 102
 
   - Remote Student Background UID: 201
 
