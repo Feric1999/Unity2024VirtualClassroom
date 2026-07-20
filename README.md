@@ -6,7 +6,11 @@ room_data.txt
   
   - Line 2: Channel Name (_channelName)
   
-  -Line 3: Token (_token)
+  - Line 3: Token (_token)
+
+  - Line 4: UserID (_userID)
+    
+  - Line 5: User Token (_userToken)
   
 
 rows_data.txt
