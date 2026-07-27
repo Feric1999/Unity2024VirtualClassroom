@@ -40,9 +40,9 @@ Program reserve UIDs
 
   - Slides UID: 101
     
-  - Local Student Camera UID: 102
+  - Local Student Camera UID: 200-300
 
-  - Remote Student Background UID: 201
+  - Remote Student Background UID: 199
 
 IP Address
   - holds IP address of server for all local student sign in apps
