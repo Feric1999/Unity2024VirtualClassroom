@@ -29,6 +29,22 @@ rows_data.txt
 name_list.txt
 
   - Used to hold a number of names to be applied to users in the game. Must be equal to the number of remote students connecting through agora (num_viewers)
+
+CalibrateCanvas.txt
+
+  - used to hold orientation of tables in remote student projection
+    
+  - Line 1: Position x
+    
+  - Line 2: Position y
+    
+  - Line 3: Position z
+    
+  - Line 4: Rotation x
+    
+  - Line 5: Rotation x
+    
+  - Line 6: Rotation x
   
 
 
