@@ -30,7 +30,7 @@ name_list.txt
 
   - Used to hold a number of names to be applied to users in the game. Must be equal to the number of remote students connecting through agora (num_viewers)
 
-CalibrateCanvas.txt
+calibrate_canvas.txt
 
   - used to hold orientation of tables in remote student projection
     
