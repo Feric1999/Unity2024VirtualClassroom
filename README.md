@@ -34,17 +34,17 @@ calibrate_canvas.txt
 
   - used to hold orientation of tables in remote student projection
     
-  - Line 1: Position x
+  - Line 1: Position Canvas x
     
-  - Line 2: Position y
+  - Line 2: Position Canvas y
     
-  - Line 3: Position z
+  - Line 3: Position Canvas z
     
-  - Line 4: Rotation x
+  - Line 4: Position Sphere x
     
-  - Line 5: Rotation x
+  - Line 5: Position Sphere x
     
-  - Line 6: Rotation x
+  - Line 6: Position Sphere x
   
 
 
