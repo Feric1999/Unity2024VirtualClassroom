@@ -1,4 +1,4 @@
 225
-franklin
-2
-4
+frank
+1
+1
