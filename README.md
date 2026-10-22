@@ -50,7 +50,7 @@ calibrate_canvas.txt
 
 Program reserve UIDs
 
-  - Remote Student Camera UID: 1-99
+  - Remote Student Camera UID: 1-50
 
   - Instructor Camera UID: 100
 
