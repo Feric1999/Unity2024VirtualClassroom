@@ -50,6 +50,8 @@ calibrate_canvas.txt
 
 Program reserve UIDs
 
+  - Remote Student Camera UID: 1-99
+
   - Instructor Camera UID: 100
 
   - Video Atlas UID: 99
